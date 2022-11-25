@@ -1,0 +1,5 @@
+venv
+__pychache__
+runs
+image_test.jpg
+*.pt
